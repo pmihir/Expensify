@@ -6,8 +6,6 @@ An expense tracking application with data visualization - developed using React,
 
 ![Expensify Graphs](https://mernbook.s3.amazonaws.com/git+/graphs.png "Expensify Graphs")
 
-### [Live Demo](http://expensetracker.mernbook.com/ "Expensify")
-
 #### What you need to run this code
 1. Node (13.12.0)
 2. NPM (6.14.4) or Yarn (1.22.4)
